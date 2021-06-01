@@ -14,4 +14,4 @@ def my_find(collection)
 end
 
 
-my_find(collection)
+p my_find(collection)
