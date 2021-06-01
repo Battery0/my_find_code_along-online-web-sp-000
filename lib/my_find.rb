@@ -1,6 +1,6 @@
 require 'pry'
 
-array = (1..100).to_a 
+collection = (1..100).to_a 
 
 
 def my_find(collection)
@@ -14,3 +14,4 @@ def my_find(collection)
 end
 
 
+my_find(collection)
